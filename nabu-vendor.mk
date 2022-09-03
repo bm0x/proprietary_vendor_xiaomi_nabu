@@ -2915,6 +2915,7 @@ PRODUCT_PACKAGES += \
     GoogleOneTimeInitializer \
     GoogleServicesFramework \
     MiuiSystemUI \
+    Settings \
     SetupWizard \
     StorageManager \
     WallpaperCropper \

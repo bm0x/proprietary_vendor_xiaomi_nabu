@@ -270,7 +270,7 @@
     <!-- finger record, config by owner -->
     <integer name="type_mqs_finger_record">3</integer>
     <!-- wheter the device support widevine l1, 1: support, 2: ota_support -->
-    <integer name="support_widevine_l1">2</integer>
+    <integer name="support_widevine_l1">1</integer>
     <!--wheater the device supports persist screen color in driver-->
     <bool name="support_screen_color_persist">true</bool>
     <!--cpu combination -->
@@ -455,9 +455,9 @@
     <bool name="support_multi_face_input_global">true</bool>
     <bool name="support_multi_face_input">true</bool>
     <!-- device head sar value -->
-    <float name="device_head_sar">1.08</float>
+    <float name="device_head_sar">0.0</float>
     <!-- device body sar value -->
-    <float name="device_body_sar">0.62</float>
+    <float name="device_body_sar">1.038</float>
     <!-- whether support fps change -->
     <integer-array name="fpsList">
         <item>120</item>
